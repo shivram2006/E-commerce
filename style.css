@@ -1,0 +1,262 @@
+.banner {
+  margin-top: 170px;
+}
+
+.btn {
+  margin-left: 110px;
+}
+.aside {
+  width: 800px;
+  height: 500px;
+  margin-top: 70px;
+}
+
+.hero li:hover {
+  .hero li a {
+    border-bottom: 2px solid green;
+  }
+}
+
+.box1 {
+  border: 2px solid black;
+  height: 200px;
+  width: 150px;
+}
+
+.box1 button {
+  width: 120px;
+  border-radius: 10px;
+  background-color: pink;
+}
+.box2 {
+  box-sizing: border-box;
+  padding: 3px;
+  border: 2px solid black;
+  height: 200px;
+  width: 150px;
+}
+.box2 button {
+  width: 120px;
+  border-radius: 10px;
+  background-color: skyblue;
+}
+.box3 {
+  border: 2px solid black;
+  height: 200px;
+  width: 150px;
+}
+
+.box3 button {
+  width: 120px;
+  border-radius: 10px;
+  background-color: rgba(0, 128, 0, 0.433);
+  margin-top: 33px;
+}
+.box4 {
+  border: 2px solid black;
+  height: 200px;
+  width: 150px;
+  box-sizing: border-box;
+  padding: 3px;
+}
+.box4 img {
+  height: 130px;
+}
+.box4 button {
+  width: 120px;
+  border-radius: 10px;
+  background-color: rgb(128, 175, 213);
+  margin-top: 6px;
+}
+.box5 {
+  border: 2px solid black;
+  height: 200px;
+  width: 150px;
+}
+
+.box5 button {
+  width: 120px;
+  border-radius: 10px;
+  background-color: rgb(220, 224, 190);
+  margin-top: -6px;
+}
+.box6 {
+  border: 2px solid black;
+  height: 200px;
+  width: 150px;
+}
+.box6 button {
+  width: 120px;
+  border-radius: 10px;
+  background-color: rgb(128, 175, 213);
+  margin-top: 6px;
+}
+
+.shirtImg1 {
+  height: 180px;
+  border-radius: 8px;
+  width: 190px;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+
+.shirtBox {
+  width: 210px;
+  height: 300px;
+  border-radius: 8px;
+}
+
+.repair-section {
+  width: 100%;
+  height: 380px;
+  background-image: url("/img/ec-bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ec-bg-btn {
+  width: 120px;
+  height: 30px;
+}
+
+.main-con {
+  /* height: 1500px; */
+  width: 100%;
+}
+
+.biger1 {
+  /* height: 1500px; */
+  width: 100%;
+  /* border: 2px solid black; */
+  display: flex;
+  /* justify-content: space-around; */
+}
+.containers1 {
+  /* border: 2px solid black; */
+  height: 300px;
+  width: 550px;
+  margin-left: 120px;
+}
+.containers2 {
+  background-image: url("img/3.jpg");
+  background-size: contain;
+  /* background-repeat: no-repeat; */
+
+  /* border: 2px solid black; */
+  height: 300px;
+  width: 550px;
+  margin-left: 50px;
+}
+
+.conatiners1-aside {
+  height: 270px;
+  width: 250px;
+}
+
+.containers-btn {
+  width: 120px;
+  height: 30px;
+}
+
+.containers2-btn {
+  border: 2px solid black;
+  width: 120px;
+  height: 30px;
+}
+
+.bigger2 {
+  margin-right: 116px;
+}
+
+.bigger2-col-1 {
+  margin-left: 120px;
+  height: 220px;
+  width: 420px;
+  background-image: url("/img/4.jpg");
+  background-size: contain;
+}
+.bigger2-col-2 {
+  height: 220px;
+  width: 420px;
+  background-image: url("/img/3.jpg");
+  background-size: contain;
+}
+.bigger2-col-3 {
+  height: 220px;
+  width: 420px;
+  background-image: url("/img/1.jpg");
+  background-size: contain;
+  /* margin-right: 120px; */
+}
+
+
+.footer-logo{
+    /* height: 300px; */
+    height: 235px;
+}
+
+.pre-footer {
+  /* background-color: black; */
+  height: 140px;
+  width: 100%;
+}
+
+.boxer{
+    position: relative;
+    top: 40px;
+}
+
+/* .para{
+    margin-top: 30px;
+} */
+
+
+.inner{
+    width: 300px;
+    margin-top: 55px;
+    height: 40px;
+    padding: 10px;
+}
+.inner-btn{
+    margin-left: -5px;
+    margin-top: 0;
+    height: 40px;
+    width: 80px;
+}
+
+
+.apple{
+    height: 100px;
+    width: 180px;
+    margin-top: -17px;
+}
+
+.play-store img{
+    height: 127px;
+    width: 140px;
+    margin-left: -20px;
+    /* margin-top: -100px; */
+    
+}
+.stores{
+    /* margin-top: -25px; */
+    margin-top: -36px;
+    margin-left: -24px;
+}
+
+.cards img{
+    height: 40px;
+}
+
+.footer-link{
+    margin-top: -35px;
+}
+
+.rupay img{
+    height: 70px;
+    margin-top: -16px;
+}
+
+
+.emails{
+    height: 40px;
+}
